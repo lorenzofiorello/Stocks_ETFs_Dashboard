@@ -2,7 +2,10 @@
 Power BI Dashboard with Stocks/ETF performance indicators 
 This project provides a simple Power BI dashboard for a Kaggle dataset about stocks and etfs prices.  
 This dataset contains daily observations of opening and closing prices for all tickers currently (1980-2020) trading on NASDAQ.  
-My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.     
+My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.  
+I imported all the etf csv on Power BI and used "Combine" on them to have a full etf table, containing day-to-day etf price infos.  
+I imported all the stocks csv on Power BI and used "Combine" on them to have a full stocks table, containing day-to-day etf price infos.  
+Finally, I imported the symbols_valid_meta.csv on Power BI, and added relationship to the etf and stocks tables using the 'Symbol' columns.  
 In the page "Stocks" you will find three charts:  
 - Total Stocks Volume Current Year: this chart shows the total Stocks volume aggregated by month, in the last available year in the dataset
 - Weighted Average Price of Stocks: this chart reports the total weighted average price of stocks, aggregated by year
@@ -16,8 +19,8 @@ In the page "ETFs" you will find three charts:
 
 ## Dashboard Pages
 ![Screenshot of the Dashboard](./stocks_page.png)  
-![Screenshot of the Dashboard](./etf_page.png)  
-
+![Screenshot of the Dashboard](./etf_page.png)
+![Screenshot of the Dashboard](./Dashboard.gif)  
 
 ## How to Use
 
@@ -29,7 +32,11 @@ In the page "ETFs" you will find three charts:
    
 3. **Interact with the Dashboard**:
    - Once the file is open in Power BI, you can filter the data by year, ETF, or stock, and dynamically view the charts.
-  
+
+## Observations
+The etfs data require further analysis. At first, in my approach, I wanted to have as well a chart regarding the weighted average price for etfs as well, but I have noticed that a few ETF have much bigger volume than all the others, and this was affecting the weighted average, making it constant.  
+Furthermore, some of the biggest ETF have missing years data.
+
 ## Next Steps
 I would like next to continue analyzing the ETF data in particular since I have noticed some inaccuracies.
 Next, I would like to update the dataset to include the data about the period 2021-present.
