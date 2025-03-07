@@ -2,11 +2,11 @@
 Power BI Dashboard with Stocks/ETF performance indicators 
 This project provides a simple Power BI dashboard for a Kaggle dataset about stocks and etfs prices.  
 This dataset contains daily observations of opening and closing prices for all tickers currently (1980-2020) trading on NASDAQ.  
-My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.   
+My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.     
 In the page "Stocks" you will find three charts:  
 - Total Stocks Volume Current Year: this chart shows the total Stocks volume aggregated by month, in the last available year in the dataset
 - Weighted Average Price of Stocks: this chart reports the total weighted average price of stocks, aggregated by year
-- Yesterday Stocks Data: this chart shows some informations regarding the latest available day in the dataset.
+- Yesterday Stocks Data: this chart shows some informations regarding the latest available day in the dataset.    
 In the page "ETFs" you will find three charts:  
 - Total ETF Volume Current Year: this chart shows the total ETF volume aggregated by month, in the last available year in the dataset
 - ETF Volume and Closing Price by Year: this chart reports the total ETF volume and price aggregated by year
@@ -14,8 +14,9 @@ In the page "ETFs" you will find three charts:
 
 
 ## Dashboard Pages
-![Screenshot of the Dashboard](./etf_page.png)  
 ![Screenshot of the Dashboard](./stocks_page.png)  
+![Screenshot of the Dashboard](./etf_page.png)  
+
 
 ## How to Use
 
