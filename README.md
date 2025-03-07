@@ -9,9 +9,9 @@ In the page "Stocks" you will find three charts:
 - Yesterday Stocks Data: this chart shows some informations regarding the latest available day in the dataset.
 <br>
 In the page "ETFs" you will find three charts:  
-- Total ETF Volume Current Year: this chart shows the total ETF volume aggregated by month, in the last available year in the dataset
-- ETF Volume and Closing Price by Year: this chart reports the total ETF volume and price aggregated by year
-- Yesterday ETF Data: this chart shows some informations regarding the latest available day in the dataset.
+- Total ETF Volume Current Year: this chart shows the total ETF volume aggregated by month, in the last available year in the dataset  
+- ETF Volume and Closing Price by Year: this chart reports the total ETF volume and price aggregated by year  
+- Yesterday ETF Data: this chart shows some informations regarding the latest available day in the dataset  
 
 
 ## Dashboard Pages
