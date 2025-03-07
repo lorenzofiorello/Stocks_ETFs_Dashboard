@@ -23,13 +23,16 @@ In the page "ETFs" you will find three charts:
 
 ## How to Use
 
-1. **Download the Power BI file**:
+1. **Download the Dataset**:
+   - [Download the Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset/data).
+   
+2. **Download the Power BI file**:
    - [Download the .pbix file](https://drive.google.com/file/d/1ilVkD060Kr9gt42vuoBWL7jql9fN4uPi/view?usp=sharing).
    
-2. **Open the file in Power BI Desktop**:
+3. **Open the file in Power BI Desktop**:
    - Make sure you have **Power BI Desktop** installed on your computer. You can download it for free from [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
    
-3. **Interact with the Dashboard**:
+4. **Interact with the Dashboard**:
    - Once the file is open in Power BI, you can filter the data by year, ETF, or stock, and dynamically view the charts.
 
 ## Observations
