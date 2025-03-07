@@ -42,7 +42,7 @@ Furthermore, some of the biggest ETF have missing years data.
 ## Next Steps
 I would like next to continue analyzing the ETF data in particular since I have noticed some inaccuracies.
 Next, I would like to update the dataset to include the data about the period 2021-present.
-Finally, It would be interesting to automatise this dashboard, so that it can always show the most recent data.
+Finally, It would be interesting to automatise this dashboard, so that it can always retrieve and show the most recent NASDAQ data.
 
 ## Contributions
 
