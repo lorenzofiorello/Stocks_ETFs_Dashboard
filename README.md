@@ -7,7 +7,7 @@ In the page "Stocks" you will find three charts:
 - Total Stocks Volume Current Year: this chart shows the total Stocks volume aggregated by month, in the last available year in the dataset
 - Weighted Average Price of Stocks: this chart reports the total weighted average price of stocks, aggregated by year
 - Yesterday Stocks Data: this chart shows some informations regarding the latest available day in the dataset.
-<br>
+
 In the page "ETFs" you will find three charts:  
 - Total ETF Volume Current Year: this chart shows the total ETF volume aggregated by month, in the last available year in the dataset  
 - ETF Volume and Closing Price by Year: this chart reports the total ETF volume and price aggregated by year  
