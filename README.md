@@ -1,8 +1,9 @@
 # Stocks & ETFs Indicators Dashboard
 Power BI Dashboard with Stocks/ETF performance indicators 
-This project provides a simple Power BI dashboard for a Kaggle dataset about stocks and etfs prices. 
-This dataset contains daily observations of opening and closing prices for all tickers currently (1980-2020) trading on NASDAQ.
-My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.
+This project provides a simple Power BI dashboard for a Kaggle dataset about stocks and etfs prices.  
+This dataset contains daily observations of opening and closing prices for all tickers currently (1980-2020) trading on NASDAQ.  
+My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.  
+In the page "ETFs"
 
 
 ## Dashboard Pages
