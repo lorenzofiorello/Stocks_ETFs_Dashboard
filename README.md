@@ -6,7 +6,7 @@ My goal was to create a simple Power BI dashboard that can be useful to get some
 
 
 ## Screenshots
-![Screenshot of the Dashboard](./images/etf_page.png)  
+![Screenshot of the Dashboard](./etf_page.png)  
 _(Add more images if necessary)_
 
 ## How to Use
