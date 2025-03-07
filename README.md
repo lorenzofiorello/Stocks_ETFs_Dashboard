@@ -5,9 +5,9 @@ This dataset contains daily observations of opening and closing prices for all t
 My goal was to create a simple Power BI dashboard that can be useful to get some insights about financial data.
 
 
-## Screenshots
+## Dashboard Pages
 ![Screenshot of the Dashboard](./etf_page.png)  
-_(Add more images if necessary)_
+![Screenshot of the Dashboard](./stocks_page.png)  
 
 ## How to Use
 
